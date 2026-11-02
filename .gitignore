@@ -1,0 +1,13 @@
+﻿node_modules/
+.next/
+.env
+.env.local
+.env*.local
+*.log
+.DS_Store
+*.docx
+*.doc
+*.pdf
+*.zip
+*.rar
+Thumbs.db
